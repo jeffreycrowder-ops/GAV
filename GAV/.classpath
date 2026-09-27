@@ -6,5 +6,21 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jeff/Music/Graphics Class/joml-1.10.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/jar/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/jar/jogl-all.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Jeff/Music/Graphics Class/jogamp-all-platforms/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
